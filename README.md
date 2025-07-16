@@ -23,6 +23,11 @@ This project was created for educational purposes to review and practice fundame
 
 ## How to Use
 
+### Option 1: Try the Live Demo
+Visit [https://esthon.com/movie-catalog/](https://esthon.com/movie-catalog/) to test the application immediately without any setup!
+
+### Option 2: Run Locally
+
 1. Clone this repository
 2. Open the `index.html` file in your browser
 3. Navigate through the movie catalog

@@ -2,6 +2,8 @@
 
 A minimalist and responsive movie catalog developed with pure HTML, CSS, and JavaScript, without the use of frameworks. This project consumes the TMDB (The Movie Database) API to display information about movies.
 
+🌐 Live Demo: https://esthon.com/movie-catalog/
+
 ## Purpose
 
 This project was created for educational purposes to review and practice fundamental web development concepts, including:
